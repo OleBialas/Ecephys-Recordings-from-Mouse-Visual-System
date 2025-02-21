@@ -1,0 +1,12 @@
+[project]
+name = "visual_ecephys"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "allensdk>=2.16.2",
+    "datalad>=1.1.5",
+    "datalad-osf>=0.3.0",
+    "pyarrow>=19.0.1",
+]
