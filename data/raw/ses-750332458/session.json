@@ -1,0 +1,28 @@
+{
+   "published_at":"2019-10-03T00:00:00Z",
+   "specimen_id":726141251,
+   "session_type":"brain_observatory_1.1",
+   "age_in_days":91.0,
+   "sex":"M",
+   "full_genotype":"wt\/wt",
+   "unit_count":902,
+   "channel_count":2216,
+   "probe_count":6,
+   "ecephys_structure_acronyms":[
+      "grey",
+      "VISrl",
+      null,
+      "VISal",
+      "IntG",
+      "IGL",
+      "LGd",
+      "CA3",
+      "DG",
+      "CA1",
+      "VISl",
+      "VISp",
+      "VISpm",
+      "VISam"
+   ],
+   "id":750332458
+}

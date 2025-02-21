@@ -1,0 +1,27 @@
+{
+   "published_at":"2019-10-03T00:00:00Z",
+   "specimen_id":726170935,
+   "session_type":"brain_observatory_1.1",
+   "age_in_days":98.0,
+   "sex":"F",
+   "full_genotype":"Pvalb-IRES-Cre\/wt;Ai32(RCL-ChR2(H134R)_EYFP)\/wt",
+   "unit_count":582,
+   "channel_count":2216,
+   "probe_count":6,
+   "ecephys_structure_acronyms":[
+      "VPM",
+      "TH",
+      "LGd",
+      "CA3",
+      "CA2",
+      "CA1",
+      "VISal",
+      null,
+      "grey",
+      "VISl",
+      "VISp",
+      "VISpm",
+      "VISrl"
+   ],
+   "id":746083955
+}

@@ -1,0 +1,21 @@
+{
+   "published_at":"2019-10-03T00:00:00Z",
+   "specimen_id":717038288,
+   "session_type":"brain_observatory_1.1",
+   "age_in_days":100.0,
+   "sex":"M",
+   "full_genotype":"wt\/wt",
+   "unit_count":824,
+   "channel_count":1847,
+   "probe_count":5,
+   "ecephys_structure_acronyms":[
+      "grey",
+      "VISpm",
+      null,
+      "VISp",
+      "VISl",
+      "VISal",
+      "VISrl"
+   ],
+   "id":732592105
+}

@@ -1,0 +1,31 @@
+{
+   "published_at":"2019-10-03T00:00:00Z",
+   "specimen_id":813701562,
+   "session_type":"functional_connectivity",
+   "age_in_days":121.0,
+   "sex":"M",
+   "full_genotype":"Vip-IRES-Cre\/wt;Ai32(RCL-ChR2(H134R)_EYFP)\/wt",
+   "unit_count":582,
+   "channel_count":1857,
+   "probe_count":5,
+   "ecephys_structure_acronyms":[
+      "LP",
+      "DG",
+      "CA1",
+      "VISmmp",
+      null,
+      "SCiw",
+      "SCig",
+      "SCop",
+      "SCsg",
+      "SCzo",
+      "VISp",
+      "CA3",
+      "ProS",
+      "VISl",
+      "VISal",
+      "LGd",
+      "VISrl"
+   ],
+   "id":835479236
+}

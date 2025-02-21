@@ -1,0 +1,30 @@
+{
+   "published_at":"2019-10-03T00:00:00Z",
+   "specimen_id":821469666,
+   "session_type":"functional_connectivity",
+   "age_in_days":115.0,
+   "sex":"M",
+   "full_genotype":"Pvalb-IRES-Cre\/wt;Ai32(RCL-ChR2(H134R)_EYFP)\/wt",
+   "unit_count":450,
+   "channel_count":1853,
+   "probe_count":5,
+   "ecephys_structure_acronyms":[
+      "APN",
+      "NOT",
+      "MB",
+      "DG",
+      "CA1",
+      "VISam",
+      null,
+      "VISpm",
+      "LGd",
+      "TH",
+      "ProS",
+      "VISp",
+      "VISl",
+      "CA3",
+      "CA2",
+      "VISal"
+   ],
+   "id":839557629
+}

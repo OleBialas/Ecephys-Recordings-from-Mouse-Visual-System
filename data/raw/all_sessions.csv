@@ -1,0 +1,119 @@
+id,published_at,specimen_id,session_type,age_in_days,sex,full_genotype,unit_count,channel_count,probe_count,ecephys_structure_acronyms
+715093703,2019-10-03T00:00:00Z,699733581,brain_observatory_1.1,118.0,M,Sst-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,884,2219,6,"['CA1' 'VISrl' nan 'PO' 'LP' 'LGd' 'CA3' 'DG' 'VISl' 'PoT' 'VISp' 'grey'
+ 'VISpm' 'APN' 'MB' 'VISam']"
+719161530,2019-10-03T00:00:00Z,703279284,brain_observatory_1.1,122.0,M,Sst-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,755,2214,6,"['TH' 'Eth' 'APN' 'POL' 'LP' 'DG' 'CA1' 'VISpm' nan 'NOT' 'MB' 'SUB'
+ 'VISp' 'VISam' 'grey' 'VL' 'CA3' 'CA2' 'VISl' 'PO' 'VPM' 'LGd' 'VISal'
+ 'VISrl']"
+721123822,2019-10-03T00:00:00Z,707296982,brain_observatory_1.1,125.0,M,Pvalb-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,444,2229,6,"['MB' 'SCig' 'PPT' 'NOT' 'DG' 'CA1' 'VISam' nan 'LP' 'VIS' 'ProS' 'VISp'
+ 'LGv' 'CA3' 'VISl' 'APN' 'POL' 'LGd' 'HPF' 'VISal' 'VISrl']"
+732592105,2019-10-03T00:00:00Z,717038288,brain_observatory_1.1,100.0,M,wt/wt,824,1847,5,['grey' 'VISpm' nan 'VISp' 'VISl' 'VISal' 'VISrl']
+737581020,2019-10-03T00:00:00Z,718643567,brain_observatory_1.1,108.0,M,wt/wt,568,2218,6,['grey' 'VISmma' nan 'VISpm' 'VISp' 'VISl' 'VISrl']
+739448407,2019-10-03T00:00:00Z,716813543,brain_observatory_1.1,112.0,M,wt/wt,625,2221,6,['grey' 'VISam' nan 'VIS' 'VISp' 'VISl' 'VISrl']
+742951821,2019-10-03T00:00:00Z,723627604,brain_observatory_1.1,120.0,M,wt/wt,893,2219,6,['VISal' nan 'grey' 'VISl' 'VISrl' 'VISp' 'VISpm' 'VIS']
+743475441,2019-10-03T00:00:00Z,722882755,brain_observatory_1.1,121.0,M,wt/wt,553,2225,6,"['LP' 'LGd' 'HPF' 'DG' 'CA3' 'CA1' 'VISrl' nan 'PP' 'PIL' 'TH' 'MGv'
+ 'VISl' 'ProS' 'SUB' 'VISp' 'PO' 'Eth' 'VISmma' 'APN' 'VISam']"
+744228101,2019-10-03T00:00:00Z,719817805,brain_observatory_1.1,122.0,M,wt/wt,659,2226,6,"['Eth' 'TH' 'LP' 'POL' 'APN' 'DG' 'CA1' 'VIS' nan 'CA3' 'VISrl' 'VPL'
+ 'IGL' 'LGd' 'CA2' 'VISal' 'VISl' 'SGN' 'SUB' 'VISp']"
+746083955,2019-10-03T00:00:00Z,726170935,brain_observatory_1.1,98.0,F,Pvalb-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,582,2216,6,"['VPM' 'TH' 'LGd' 'CA3' 'CA2' 'CA1' 'VISal' nan 'grey' 'VISl' 'VISp'
+ 'VISpm' 'VISrl']"
+750332458,2019-10-03T00:00:00Z,726141251,brain_observatory_1.1,91.0,M,wt/wt,902,2216,6,"['grey' 'VISrl' nan 'VISal' 'IntG' 'IGL' 'LGd' 'CA3' 'DG' 'CA1' 'VISl'
+ 'VISp' 'VISpm' 'VISam']"
+750749662,2019-10-03T00:00:00Z,726162197,brain_observatory_1.1,92.0,M,wt/wt,761,2223,6,"['LP' 'DG' 'CA1' 'VISp' nan 'LGd' 'CA3' 'VISrl' 'VPM' 'TH' 'CA2' 'VISal'
+ 'LGv' 'IGL' 'VISl' 'PO' 'LD' 'VISpm' 'Eth' 'VISam']"
+751348571,2019-10-03T00:00:00Z,732548380,brain_observatory_1.1,93.0,F,Vip-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,859,2217,6,"['grey' 'LGv' 'CA3' 'DG' 'CA1' 'VISl' nan 'APN' 'POL' 'SGN' 'LP' 'VISrl'
+ 'PO' 'LGd' 'MGm' 'SUB' 'VISp' 'PoT' 'Eth' 'VISpm' 'MB' 'VISam']"
+754312389,2019-10-03T00:00:00Z,719828690,brain_observatory_1.1,140.0,M,wt/wt,502,2220,6,"['APN' 'POL' 'LP' 'DG' 'CA1' 'VISam' nan 'LGd' 'HPF' 'CA3' 'VISpm' 'VISp'
+ 'CA2' 'VISl' 'grey' 'TH' 'VISal' 'VISrl']"
+754829445,2019-10-03T00:00:00Z,726298253,brain_observatory_1.1,141.0,M,wt/wt,832,1851,5,"['PoT' 'LP' 'LGd' 'CA3' 'DG' 'CA1' 'VISp' nan 'VPM' 'CA2' 'VISrl' 'PO'
+ 'Eth' 'TH' 'VISpm' 'APN' 'POL' 'VISam']"
+755434585,2019-10-03T00:00:00Z,730760270,brain_observatory_1.1,100.0,M,Vip-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,650,2220,6,"['grey' 'VISrl' nan 'MGv' 'MGd' 'TH' 'LGd' 'CA3' 'DG' 'CA1' 'VISal' 'VISl'
+ 'APN' 'LP' 'MB' 'VISpm' 'SGN' 'ProS' 'VISp' 'SCig' 'PPT' 'NOT' 'VISam']"
+756029989,2019-10-03T00:00:00Z,734865738,brain_observatory_1.1,96.0,M,Sst-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,684,2214,6,"['TH' 'DG' 'CA3' 'CA1' 'VISl' nan 'PO' 'Eth' 'LP' 'VISpm' 'VISrl' 'VPM'
+ 'LGd' 'CA2' 'VISal' 'POL' 'APN' 'MB' 'SCig' 'POST' 'SUB' 'VISp' 'VISam']"
+757216464,2019-10-03T00:00:00Z,733457989,brain_observatory_1.1,105.0,M,wt/wt,959,2225,6,"['LP' 'DG' 'CA3' 'CA1' 'VISrl' nan 'PO' 'LGd' 'HPF' 'VISal' 'TH' 'LGv'
+ 'VISl' 'MGm' 'SGN' 'ProS' 'SUB' 'VISp' 'Eth' 'APN' 'VIS' 'MRN' 'MB' 'NOT'
+ 'VISam']"
+757970808,2019-10-03T00:00:00Z,730756780,brain_observatory_1.1,106.0,M,wt/wt,773,1853,5,"['grey' 'DG' 'CA3' 'CA1' 'VISli' nan 'MGd' 'SGN' 'LP' 'TH' 'ProS' 'VISp'
+ 'VISrl' 'VPM' 'LGd' 'VISal' 'MRN' 'MB' 'PPT' 'OP' 'NOT' 'SUB' 'VISam']"
+758798717,2019-10-03T00:00:00Z,735109609,brain_observatory_1.1,102.0,M,Sst-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,593,1486,4,"['MGv' 'MGd' 'TH' 'DG' 'CA1' 'VISal' nan 'SGN' 'LP' 'SUB' 'VISp' 'APN'
+ 'MB' 'VISpm' 'PPT' 'OP' 'NOT' 'HPF' 'ProS' 'VISam']"
+759883607,2019-10-03T00:00:00Z,740268986,brain_observatory_1.1,113.0,M,wt/wt,483,1489,4,"['MB' 'SCig' 'PPT' 'NOT' 'SUB' 'ProS' 'CA1' 'VISam' nan 'MGm' 'MGv' 'TH'
+ 'LGd' 'CA3' 'DG' 'VISal' 'APN' 'VISp' 'POL' 'VISpm']"
+760345702,2019-10-03T00:00:00Z,739783171,brain_observatory_1.1,103.0,M,Pvalb-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,501,1862,5,"['MB' 'TH' 'PP' 'PIL' 'DG' 'CA3' 'CA1' 'VISal' nan 'grey' 'CA2' 'VISl'
+ 'LGd' 'VISp' 'LP' 'VISpm' 'APN' 'VISam']"
+760693773,2019-10-03T00:00:00Z,738651054,brain_observatory_1.1,110.0,F,Sst-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,826,2233,6,['grey' 'VISrl' nan 'VISal' 'VISp' 'VISpm' 'VISam']
+761418226,2019-10-03T00:00:00Z,742714475,brain_observatory_1.1,119.0,M,wt/wt,712,2230,6,"['grey' 'CA3' 'CA2' 'CA1' 'VISal' nan 'LGd' 'HPF' 'DG' 'VISp' 'TH' 'Eth'
+ 'LP' 'VISpm' 'APN' 'MB' 'VISrl' 'POL' 'ZI' 'LGv' 'IGL']"
+762120172,2019-10-03T00:00:00Z,745276236,brain_observatory_1.1,100.0,M,Vip-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,717,1860,5,['grey' 'VISal' nan 'VISl' 'VISp' 'VIS' 'VISam']
+762602078,2019-10-03T00:00:00Z,744915204,brain_observatory_1.1,110.0,M,Sst-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,531,2233,6,"['MB' 'APN' 'NOT' 'DG' 'CA1' 'VISam' nan 'VISrl' 'LGv' 'CA3' 'VIS' 'SGN'
+ 'LP' 'POST' 'SUB' 'VISp' 'PPT' 'HPF' 'ProS' 'VISmmp']"
+763673393,2019-10-03T00:00:00Z,742602892,brain_observatory_1.1,126.0,M,wt/wt,629,2227,6,"['CA3' 'CA2' 'CA1' 'VISl' nan 'APN' 'MB' 'DG' 'VISam' 'Eth' 'TH' 'LP'
+ 'POL' 'LGd' 'VISp' 'ZI' 'LGv' 'VIS' 'VISrl']"
+766640955,2019-10-03T00:00:00Z,744912849,functional_connectivity,133.0,M,wt/wt,842,2233,6,"['MB' 'APN' 'NOT' 'DG' 'CA1' 'VISam' nan 'PF' 'TH' 'LP' 'VISmma' 'VISp'
+ 'MGd' 'CA3' 'VISl' 'VPM' 'LGd' 'VISal' 'VISrl']"
+767871931,2019-10-03T00:00:00Z,753795610,functional_connectivity,135.0,M,wt/wt,713,2231,6,"['MRN' 'APN' 'MB' 'DG' 'CA1' 'VISrl' nan 'VISam' 'PO' 'LP' 'VISpm' 'MGd'
+ 'SGN' 'ProS' 'SUB' 'VISp' 'CA3' 'VISli' 'LT' 'TH' 'VISal']"
+768515987,2019-10-03T00:00:00Z,754477358,functional_connectivity,136.0,M,wt/wt,802,2217,6,"['MB' 'APN' 'NOT' 'DG' 'CA1' 'VISam' nan 'Eth' 'LP' 'POL' 'TH' 'VISmma'
+ 'ProS' 'VISp' 'CA3' 'CA2' 'VISl' 'MGm' 'MGv' 'MGd' 'LGd' 'VISal' 'RPF'
+ 'VISrl']"
+771160300,2019-10-03T00:00:00Z,754488979,functional_connectivity,142.0,M,wt/wt,930,2230,6,"['SCig' 'PPT' 'NOT' 'SUB' 'ProS' 'CA1' 'VISam' nan 'APN' 'MB' 'DG' 'VISpm'
+ 'LP' 'VISp' 'CA3' 'CA2' 'VISli' 'ZI' 'IntG' 'IGL' 'LGd' 'VISal' 'OP'
+ 'VIS']"
+771990200,2019-10-03T00:00:00Z,756578435,functional_connectivity,108.0,M,wt/wt,546,2229,6,"['APN' 'MB' 'DG' 'CA1' 'VISam' nan 'PO' 'LP' 'VISpm' 'LGd' 'TH' 'ProS'
+ 'VISp' 'CA3' 'CA2' 'VISli' 'VISal' 'POL' 'VISrl']"
+773418906,2019-10-03T00:00:00Z,757329624,brain_observatory_1.1,124.0,F,Pvalb-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,546,2232,6,"['PPT' 'NOT' 'SUB' 'ProS' 'CA1' 'VISam' nan 'APN' 'DG' 'VISmmp' 'MB'
+ 'SCig' 'HPF' 'POST' 'VISp' 'CA3' 'CA2' 'VISal' 'MGv' 'MGd' 'TH' 'VISrl']"
+774875821,2019-10-03T00:00:00Z,759711152,functional_connectivity,114.0,M,wt/wt,649,2233,6,"['APN' 'LP' 'DG' 'CA1' 'VISrl' nan 'MGv' 'MGd' 'CA3' 'VISal' 'VISl' 'VISp'
+ 'MB' 'VISmma' 'SCig' 'NOT' 'HPF' 'SUB' 'ProS' 'VISam']"
+778240327,2019-10-03T00:00:00Z,760938797,functional_connectivity,120.0,M,wt/wt,784,2234,6,"['APN' 'POL' 'LP' 'DG' 'CA1' 'VISrl' nan 'ZI' 'IntG' 'IGL' 'TH' 'LGd'
+ 'CA3' 'VISal' 'grey' 'CA2' 'VISl' 'VISp' 'VISpm' 'NOT' 'HPF' 'SUB' 'ProS'
+ 'VISam']"
+778998620,2019-10-03T00:00:00Z,759674770,functional_connectivity,121.0,M,wt/wt,793,2229,6,"['APN' 'POL' 'LP' 'DG' 'CA3' 'CA1' 'VISrl' nan 'ZI' 'MB' 'LGv' 'VISal'
+ 'CA2' 'VISl' 'SGN' 'SUB' 'VISp' 'VISpm' 'NOT' 'VISam']"
+779839471,2019-10-03T00:00:00Z,760960653,functional_connectivity,122.0,M,wt/wt,863,2220,6,"['APN' 'LP' 'MB' 'DG' 'CA1' 'VISrl' nan 'TH' 'LGd' 'CA3' 'VIS' 'CA2'
+ 'ProS' 'VISp' 'POL' 'VISpm' 'PPT' 'OP' 'NOT' 'HPF' 'SUB' 'VISam']"
+781842082,2019-10-03T00:00:00Z,760946813,functional_connectivity,126.0,M,wt/wt,833,2232,6,"['APN' 'LP' 'DG' 'CA1' 'VISrl' nan 'MGm' 'TH' 'MGv' 'LGd' 'CA3' 'CA2'
+ 'VISal' 'grey' 'SGN' 'PRE' 'POST' 'SUB' 'HPF' 'VISp' 'POL' 'MB' 'VISmma'
+ 'NOT' 'VISam']"
+786091066,2019-10-03T00:00:00Z,763884103,functional_connectivity,111.0,F,Sst-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,700,2232,6,"['APN' 'MB' 'DG' 'CA1' 'VISrl' nan 'MGd' 'CA3' 'VISal' 'CA2' 'grey' 'SUB'
+ 'VISp' 'PPT' 'NOT' 'ProS' 'VISpm' 'SCig' 'VISam']"
+787025148,2019-10-03T00:00:00Z,763236014,functional_connectivity,114.0,M,Sst-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,696,2231,6,"['SCiw' 'SCig' 'PPT' 'NOT' 'DG' 'SUB' 'ProS' 'CA1' 'VISam' nan 'APN' 'LP'
+ 'VISrl' 'grey' 'MB' 'PP' 'TH' 'MGv' 'CA3' 'VISal' 'VISli' 'POL' 'SGN'
+ 'VISp' 'VIS']"
+789848216,2019-10-03T00:00:00Z,763808604,functional_connectivity,119.0,M,Sst-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,415,2230,6,"['grey' 'CA3' 'CA2' 'CA1' 'VISal' nan 'LP' 'LD' 'VISrl' 'POL' 'APN' 'TH'
+ 'DG' 'VISam' 'VISmmp' 'VISp' 'CP' 'VISl']"
+791319847,2019-10-03T00:00:00Z,769360779,brain_observatory_1.1,116.0,M,Vip-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,555,2229,6,"['APN' 'DG' 'CA1' 'VISam' nan 'LP' 'TH' 'VISpm' 'POL' 'VISrl' 'CA3' 'CA2'
+ 'VISl' 'LGd' 'ProS' 'SUB' 'VISp' 'ZI' 'LGv' 'VISal']"
+793224716,2019-10-03T00:00:00Z,769319624,functional_connectivity,120.0,M,wt/wt,781,2229,6,"['APN' 'NOT' 'MB' 'DG' 'CA1' 'VIS' nan 'Eth' 'LP' 'SGN' 'SUB' 'VISp' 'CA3'
+ 'CA2' 'VISal' 'grey' 'MRN' 'VISrl']"
+794812542,2019-10-03T00:00:00Z,774672366,functional_connectivity,120.0,F,Sst-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,1005,2229,6,"['MB' 'APN' 'DG' 'CA1' 'VISrl' nan 'PIL' 'MGm' 'MGv' 'MGd' 'CA3' 'VISal'
+ 'CA2' 'VISl' 'LP' 'POST' 'SUB' 'VISp' 'SCig' 'NOT' 'HPF' 'ProS' 'VISam'
+ 'POL' 'VISpm']"
+797828357,2019-10-03T00:00:00Z,776061251,brain_observatory_1.1,107.0,M,Pvalb-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,611,2232,6,"['PPT' 'MB' 'APN' 'NOT' 'HPF' 'ProS' 'CA1' 'VISam' nan 'POL' 'LP' 'DG'
+ 'VISrl' 'ZI' 'IntG' 'IGL' 'CA3' 'VISal' 'CA2' 'VISl' 'SUB' 'VISp' 'VISpm']"
+798911424,2019-10-03T00:00:00Z,775876828,brain_observatory_1.1,110.0,F,Vip-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,825,2233,6,"['APN' 'TH' 'Eth' 'LP' 'DG' 'HPF' 'CA3' 'CA1' 'VISrl' nan 'LGv' 'CA2'
+ 'VISal' 'VISl' 'ProS' 'SUB' 'VISp' 'VISam' 'MB' 'NOT']"
+799864342,2019-10-03T00:00:00Z,772616823,brain_observatory_1.1,129.0,M,wt/wt,604,2233,6,"['APN' 'POL' 'LP' 'DG' 'CA1' 'VISrl' nan 'LGd' 'CA3' 'VISal' 'CA2' 'VISl'
+ 'ProS' 'SUB' 'VISp' 'VISmma' 'VISam' 'COAa']"
+816200189,2019-10-03T00:00:00Z,791857608,functional_connectivity,128.0,F,Vip-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,634,1857,5,"['MRN' 'APN' 'MB' 'DG' 'CA1' 'VISam' nan 'LP' 'VISpm' 'SGN' 'SUB' 'VISp'
+ 'CA3' 'VISl' 'VPM' 'RT' 'LGv' 'IGL' 'CA2' 'VIS']"
+819186360,2019-10-03T00:00:00Z,800249587,functional_connectivity,128.0,F,wt/wt,531,1696,5,"['SCiw' 'SCig' 'NOT' 'MB' 'SCop' 'HPF' 'SUB' 'VISam' nan 'DG' 'CA1'
+ 'VISpm' 'CA3' 'VISl' 'LP' 'LGd' 'VISrl' 'APN' 'POL']"
+819701982,2019-10-03T00:00:00Z,795770036,functional_connectivity,135.0,F,Vip-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,585,1852,5,"['MB' 'SCiw' 'SCig' 'PPT' 'NOT' 'SUB' 'ProS' 'CA1' 'VISam' nan 'DG' 'CA3'
+ 'VISl' 'LGd' 'VISrl' 'APN' 'POL' 'SGN' 'LP' 'TH']"
+821695405,2019-10-03T00:00:00Z,800250057,functional_connectivity,134.0,F,wt/wt,474,1856,5,"['LGv' 'TH' 'DG' 'CA3' 'CA1' 'ProS' 'VISl' nan 'grey' 'VISp' 'LP' 'VISpm'
+ 'VISam' 'LGd' 'VISal']"
+829720705,2019-10-03T00:00:00Z,811322619,functional_connectivity,112.0,M,Pvalb-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,529,1841,5,"['SCig' 'SCop' 'SCsg' 'SCzo' 'POST' 'VISp' nan 'CA1' 'VISam' 'COApm' 'OLF'
+ 'BMAa' 'CA3' 'DG' 'VISl' 'VISal' 'grey' 'VISrl']"
+831882777,2019-10-03T00:00:00Z,803390291,functional_connectivity,137.0,M,Sst-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,657,2227,6,"['grey' 'DG' 'CA1' 'VISrl' nan 'VISal' 'VISl' 'MB' 'SCig' 'POST' 'SUB'
+ 'HPF' 'VISp' 'APN' 'NOT' 'ProS' 'VISpm' 'PPT' 'VISam']"
+835479236,2019-10-03T00:00:00Z,813701562,functional_connectivity,121.0,M,Vip-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,582,1857,5,"['LP' 'DG' 'CA1' 'VISmmp' nan 'SCiw' 'SCig' 'SCop' 'SCsg' 'SCzo' 'VISp'
+ 'CA3' 'ProS' 'VISl' 'VISal' 'LGd' 'VISrl']"
+839068429,2019-10-03T00:00:00Z,817060751,functional_connectivity,129.0,F,Sst-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,742,2298,6,"['APN' 'LP' 'MB' 'DG' 'CA1' 'VISam' nan 'VISpm' 'ProS' 'SUB' 'VISp' 'CA3'
+ 'VISl' 'VIS' 'LGd' 'TH' 'VISrl']"
+839557629,2019-10-03T00:00:00Z,821469666,functional_connectivity,115.0,M,Pvalb-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,450,1853,5,"['APN' 'NOT' 'MB' 'DG' 'CA1' 'VISam' nan 'VISpm' 'LGd' 'TH' 'ProS' 'VISp'
+ 'VISl' 'CA3' 'CA2' 'VISal']"
+840012044,2019-10-03T00:00:00Z,820866121,functional_connectivity,116.0,M,Pvalb-IRES-Cre/wt;Ai32(RCL-ChR2(H134R)_EYFP)/wt,758,2298,6,"['APN' 'DG' 'CA1' 'VISam' nan 'LP' 'VISpm' 'VISp' 'LGv' 'IGL' 'TH' 'CA3'
+ 'VISl' 'MGv' 'MGd' 'VISrl']"
+847657808,2019-10-03T00:00:00Z,827809884,functional_connectivity,126.0,F,wt/wt,874,2298,6,"['APN' 'NOT' 'DG' 'HPF' 'ProS' 'CA1' 'VISam' nan 'MB' 'VISpm' 'POST' 'SUB'
+ 'VISp' 'CA3' 'VISl' 'MGd' 'TH' 'VISal' 'SGN' 'LP' 'VISrl']"

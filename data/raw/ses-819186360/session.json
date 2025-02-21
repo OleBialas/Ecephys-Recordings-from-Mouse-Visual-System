@@ -1,0 +1,33 @@
+{
+   "published_at":"2019-10-03T00:00:00Z",
+   "specimen_id":800249587,
+   "session_type":"functional_connectivity",
+   "age_in_days":128.0,
+   "sex":"F",
+   "full_genotype":"wt\/wt",
+   "unit_count":531,
+   "channel_count":1696,
+   "probe_count":5,
+   "ecephys_structure_acronyms":[
+      "SCiw",
+      "SCig",
+      "NOT",
+      "MB",
+      "SCop",
+      "HPF",
+      "SUB",
+      "VISam",
+      null,
+      "DG",
+      "CA1",
+      "VISpm",
+      "CA3",
+      "VISl",
+      "LP",
+      "LGd",
+      "VISrl",
+      "APN",
+      "POL"
+   ],
+   "id":819186360
+}

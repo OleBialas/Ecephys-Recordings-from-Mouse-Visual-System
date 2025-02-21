@@ -1,0 +1,33 @@
+{
+   "published_at":"2019-10-03T00:00:00Z",
+   "specimen_id":744912849,
+   "session_type":"functional_connectivity",
+   "age_in_days":133.0,
+   "sex":"M",
+   "full_genotype":"wt\/wt",
+   "unit_count":842,
+   "channel_count":2233,
+   "probe_count":6,
+   "ecephys_structure_acronyms":[
+      "MB",
+      "APN",
+      "NOT",
+      "DG",
+      "CA1",
+      "VISam",
+      null,
+      "PF",
+      "TH",
+      "LP",
+      "VISmma",
+      "VISp",
+      "MGd",
+      "CA3",
+      "VISl",
+      "VPM",
+      "LGd",
+      "VISal",
+      "VISrl"
+   ],
+   "id":766640955
+}
