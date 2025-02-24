@@ -18,17 +18,18 @@ source .venv/bin/activate # on Linux/MacOs
 ./venv\Scripts\activate # on Windows
 ```
 
-Now you can download the actual data using `datalad` (which is part of the installed environment).
-For example, to download everything in the `raw` folder, do
+Now you can download the actual data using `datalad` (which is part of the installed environment) using the `datalad get` command.
+Initially you may want to get the dataset's structure without downloading all of the content.
+This can be done by using the `-n` (no data) flag which downloads symbolic links for al files without their content.
 
 ```sh
-datalad get data/raw/*
+datalad get -n data
 ```
 
-Or, to simply downlad everything, do
+Once this is done you can download specific parts of the dataset, for example the `raw` folder:
 
 ```sh
-datalad get *
+datalad get data/raw
 ```
 
 ## Running the Pipeline
