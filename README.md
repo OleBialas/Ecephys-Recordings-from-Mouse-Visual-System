@@ -15,7 +15,7 @@ Then, install the [uv package manager](docs.astral.sh/uv/getting-started/install
 ```sh
 uv sync
 source .venv/bin/activate # on Linux/MacOs
-./venv/Scripts/activate # on Windows
+./venv\Scripts\activate # on Windows
 ```
 
 Now you can download the actual data using `datalad` (which is part of the installed environment).
