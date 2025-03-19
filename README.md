@@ -2,7 +2,10 @@
 
 This repo contains data from the Allen Institute's [visual coding dataset](https://portal.brain-map.org/circuits-behavior/visual-coding-neuropixels) as well as the code to download this data and convert it to other formats.
 
-## Download the Data
+## Installing Dependencies
+
+This project uses `uv` to manage the Python software dependencies and `datalad` to download and manage data.
+Follow the steps below to set up an environment that allows you to download the data and replicate the processing pipeline.
 
 First, clone this repository and move into the cloned directory
 ```sh
@@ -15,20 +18,30 @@ Then, install the [uv package manager](docs.astral.sh/uv/getting-started/install
 ```sh
 uv sync
 source .venv/bin/activate # on Linux/MacOs
-./venv/Scripts/activate # on Windows
+.\venv\Scripts\activate # on Windows
 ```
 
-Now you can download the actual data using `datalad` (which is part of the installed environment).
-For example, to download everything in the `raw` folder, do
+While datalad itself is included in the evironment, it depends on git-annex.
+If you don't have git-annex installed, you can simply run the datalad installer:
 
-```sh
-datalad get data/raw/*
+```
+datalad-installer git-annex -m datalad/git-annex:release
 ```
 
-Or, to simply downlad everything, do
+## Downloading Data
+
+Now you can download the actual data using `datalad` (which is part of the installed environment) using the `datalad get` command.
+Initially you may want to get the dataset's structure without downloading all of the content.
+This can be done by using the `-n` (no data) flag which downloads symbolic links for al files without their content.
 
 ```sh
-datalad get *
+datalad get -n data
+```
+
+Once this is done you can download specific parts of the dataset, for example the `raw` folder:
+
+```sh
+datalad get data/raw
 ```
 
 ## Running the Pipeline
